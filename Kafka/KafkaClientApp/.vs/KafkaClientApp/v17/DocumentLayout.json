@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|d:\\workspaces\\secondary workspace\\poc\\current\\kafkaclientapp\\kafkaconsumer\\services\\consumerservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\services\\consumerservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|d:\\workspaces\\secondary workspace\\poc\\current\\kafkaclientapp\\kafkaconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|d:\\workspaces\\secondary workspace\\poc\\current\\kafkaclientapp\\kafkaconsumer\\services\\consumercoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\services\\consumercoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|d:\\workspaces\\secondary workspace\\poc\\current\\kafkaclientapp\\kafkaconsumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|d:\\workspaces\\secondary workspace\\poc\\current\\kafkaclientapp\\kafkaconsumer\\interfaces\\ikafkaconsumermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\interfaces\\ikafkaconsumermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|d:\\workspaces\\secondary workspace\\poc\\current\\kafkaclientapp\\kafkaconsumer\\services\\dlqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\services\\dlqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|d:\\workspaces\\secondary workspace\\poc\\current\\kafkaclientapp\\kafkaconsumer\\services\\dummyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\services\\dummyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|d:\\workspaces\\secondary workspace\\poc\\current\\kafkaclientapp\\kafkaconsumer\\interfaces\\idummyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\interfaces\\idummyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|d:\\workspaces\\secondary workspace\\poc\\current\\kafkaclientapp\\kafkaconsumer\\utilities\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267FC1E6-6363-4296-A882-3FAED7F18141}|KafkaConsumer\\KafkaConsumer.csproj|solutionrelative:kafkaconsumer\\utilities\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsumerServiceHandler.cs",
+              "DocumentMoniker": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\Services\\ConsumerServiceHandler.cs",
+              "RelativeDocumentMoniker": "KafkaConsumer\\Services\\ConsumerServiceHandler.cs",
+              "ToolTip": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\Services\\ConsumerServiceHandler.cs",
+              "RelativeToolTip": "KafkaConsumer\\Services\\ConsumerServiceHandler.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAApwDkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:21:41.648Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaConsumer\\Program.cs",
+              "ToolTip": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\Program.cs",
+              "RelativeToolTip": "KafkaConsumer\\Program.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAWwJkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:33:43.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsumerCoordinator.cs",
+              "DocumentMoniker": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\Services\\ConsumerCoordinator.cs",
+              "RelativeDocumentMoniker": "KafkaConsumer\\Services\\ConsumerCoordinator.cs",
+              "ToolTip": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\Services\\ConsumerCoordinator.cs",
+              "RelativeToolTip": "KafkaConsumer\\Services\\ConsumerCoordinator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:17:51.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DLQProducer.cs",
+              "DocumentMoniker": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\Services\\DLQProducer.cs",
+              "RelativeDocumentMoniker": "KafkaConsumer\\Services\\DLQProducer.cs",
+              "ToolTip": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\Services\\DLQProducer.cs",
+              "RelativeToolTip": "KafkaConsumer\\Services\\DLQProducer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T05:52:29.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DummyService.cs",
+              "DocumentMoniker": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\Services\\DummyService.cs",
+              "RelativeDocumentMoniker": "KafkaConsumer\\Services\\DummyService.cs",
+              "ToolTip": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\Services\\DummyService.cs",
+              "RelativeToolTip": "KafkaConsumer\\Services\\DummyService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T05:46:20.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\Utilities\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "KafkaConsumer\\Utilities\\JsonHelper.cs",
+              "ToolTip": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\Utilities\\JsonHelper.cs",
+              "RelativeToolTip": "KafkaConsumer\\Utilities\\JsonHelper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA3wA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:07:06.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDummyService.cs",
+              "DocumentMoniker": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\Interfaces\\IDummyService.cs",
+              "RelativeDocumentMoniker": "KafkaConsumer\\Interfaces\\IDummyService.cs",
+              "ToolTip": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\Interfaces\\IDummyService.cs",
+              "RelativeToolTip": "KafkaConsumer\\Interfaces\\IDummyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:51:55.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IKafkaConsumerManagement.cs",
+              "DocumentMoniker": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\Interfaces\\IKafkaConsumerManagement.cs",
+              "RelativeDocumentMoniker": "KafkaConsumer\\Interfaces\\IKafkaConsumerManagement.cs",
+              "ToolTip": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\Interfaces\\IKafkaConsumerManagement.cs",
+              "RelativeToolTip": "KafkaConsumer\\Interfaces\\IKafkaConsumerManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:27:11.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\appsettings.json",
+              "RelativeDocumentMoniker": "KafkaConsumer\\appsettings.json",
+              "ToolTip": "D:\\Workspaces\\Secondary Workspace\\POC\\Current\\KafkaClientApp\\KafkaConsumer\\appsettings.json",
+              "RelativeToolTip": "KafkaConsumer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T11:19:12.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
