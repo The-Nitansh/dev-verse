@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC4A0D4-DAF8-9A0F-49C0-D6AEC3575716}|..\\KafkaClient\\KafkaClient\\KafkaClient.csproj|d:\\workspaces\\.respositories\\personal\\dev-verse\\kafka\\kafkaclient\\kafkaclient\\datatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC4A0D4-DAF8-9A0F-49C0-D6AEC3575716}|..\\KafkaClient\\KafkaClient\\KafkaClient.csproj|d:\\workspaces\\.respositories\\personal\\dev-verse\\kafka\\kafkaclient\\kafkaclient\\json\\jsonkafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33528C51-1BC0-45DB-90BC-41CBDE51FE86}|KafkaApp\\KafkaApp.csproj|d:\\workspaces\\.respositories\\personal\\dev-verse\\kafka\\kafkaapp\\kafkaapp\\services\\consumerhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33528C51-1BC0-45DB-90BC-41CBDE51FE86}|KafkaApp\\KafkaApp.csproj|solutionrelative:kafkaapp\\services\\consumerhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC4A0D4-DAF8-9A0F-49C0-D6AEC3575716}|..\\KafkaClient\\KafkaClient\\KafkaClient.csproj|d:\\workspaces\\.respositories\\personal\\dev-verse\\kafka\\kafkaclient\\kafkaclient\\kafkaclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC4A0D4-DAF8-9A0F-49C0-D6AEC3575716}|..\\KafkaClient\\KafkaClient\\KafkaClient.csproj|d:\\workspaces\\.respositories\\personal\\dev-verse\\kafka\\kafkaclient\\kafkaclient\\interfaces\\ikafkaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33528C51-1BC0-45DB-90BC-41CBDE51FE86}|KafkaApp\\KafkaApp.csproj|d:\\workspaces\\.respositories\\personal\\dev-verse\\kafka\\kafkaapp\\kafkaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33528C51-1BC0-45DB-90BC-41CBDE51FE86}|KafkaApp\\KafkaApp.csproj|solutionrelative:kafkaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33528C51-1BC0-45DB-90BC-41CBDE51FE86}|KafkaApp\\KafkaApp.csproj|d:\\workspaces\\.respositories\\personal\\dev-verse\\kafka\\kafkaapp\\kafkaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33528C51-1BC0-45DB-90BC-41CBDE51FE86}|KafkaApp\\KafkaApp.csproj|solutionrelative:kafkaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33528C51-1BC0-45DB-90BC-41CBDE51FE86}|KafkaApp\\KafkaApp.csproj|d:\\workspaces\\.respositories\\personal\\dev-verse\\kafka\\kafkaapp\\kafkaapp\\datamodels\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33528C51-1BC0-45DB-90BC-41CBDE51FE86}|KafkaApp\\KafkaApp.csproj|solutionrelative:kafkaapp\\datamodels\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataTypes.cs",
+              "DocumentMoniker": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\DataTypes.cs",
+              "RelativeDocumentMoniker": "..\\KafkaClient\\KafkaClient\\DataTypes.cs",
+              "ToolTip": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\DataTypes.cs",
+              "RelativeToolTip": "..\\KafkaClient\\KafkaClient\\DataTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:28:43.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonKafkaConsumer.cs",
+              "DocumentMoniker": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Json\\JsonKafkaConsumer.cs",
+              "RelativeDocumentMoniker": "..\\KafkaClient\\KafkaClient\\Json\\JsonKafkaConsumer.cs",
+              "ToolTip": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Json\\JsonKafkaConsumer.cs",
+              "RelativeToolTip": "..\\KafkaClient\\KafkaClient\\Json\\JsonKafkaConsumer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:21:11.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaApp\\KafkaApp\\appsettings.json",
+              "RelativeDocumentMoniker": "KafkaApp\\appsettings.json",
+              "ToolTip": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaApp\\KafkaApp\\appsettings.json",
+              "RelativeToolTip": "KafkaApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T07:09:14.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KafkaClientFactory.cs",
+              "DocumentMoniker": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\KafkaClientFactory.cs",
+              "RelativeDocumentMoniker": "..\\KafkaClient\\KafkaClient\\KafkaClientFactory.cs",
+              "ToolTip": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\KafkaClientFactory.cs",
+              "RelativeToolTip": "..\\KafkaClient\\KafkaClient\\KafkaClientFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:03:07.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IKafkaServices.cs",
+              "DocumentMoniker": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Interfaces\\IKafkaServices.cs",
+              "RelativeDocumentMoniker": "..\\KafkaClient\\KafkaClient\\Interfaces\\IKafkaServices.cs",
+              "ToolTip": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Interfaces\\IKafkaServices.cs",
+              "RelativeToolTip": "..\\KafkaClient\\KafkaClient\\Interfaces\\IKafkaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:01:52.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Global.cs",
+              "DocumentMoniker": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaApp\\KafkaApp\\DataModels\\Global.cs",
+              "RelativeDocumentMoniker": "KafkaApp\\DataModels\\Global.cs",
+              "ToolTip": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaApp\\KafkaApp\\DataModels\\Global.cs",
+              "RelativeToolTip": "KafkaApp\\DataModels\\Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:36:05.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaApp\\KafkaApp\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaApp\\Program.cs",
+              "ToolTip": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaApp\\KafkaApp\\Program.cs",
+              "RelativeToolTip": "KafkaApp\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwDoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:31:01.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsumerHostedService.cs",
+              "DocumentMoniker": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaApp\\KafkaApp\\Services\\ConsumerHostedService.cs",
+              "RelativeDocumentMoniker": "KafkaApp\\Services\\ConsumerHostedService.cs",
+              "ToolTip": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaApp\\KafkaApp\\Services\\ConsumerHostedService.cs",
+              "RelativeToolTip": "KafkaApp\\Services\\ConsumerHostedService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:17:24.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

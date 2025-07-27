@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Factory.KafkaClientFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KafkaClient\\Factory.KafkaClientFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\QConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KafkaClient\\QConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Json\\JsonKafkaProducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KafkaClient\\Json\\JsonKafkaProducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Avro\\AvroKafkaConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KafkaClient\\Avro\\AvroKafkaConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\DataTypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KafkaClient\\DataTypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Interfaces\\IKafkaServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KafkaClient\\Interfaces\\IKafkaServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Json\\JsonKafkaConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KafkaClient\\Json\\JsonKafkaConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QConfiguration.cs",
+              "DocumentMoniker": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\QConfiguration.cs",
+              "RelativeDocumentMoniker": "KafkaClient\\QConfiguration.cs",
+              "ToolTip": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\QConfiguration.cs",
+              "RelativeToolTip": "KafkaClient\\QConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:11:17.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonKafkaProducer.cs",
+              "DocumentMoniker": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Json\\JsonKafkaProducer.cs",
+              "RelativeDocumentMoniker": "KafkaClient\\Json\\JsonKafkaProducer.cs",
+              "ToolTip": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Json\\JsonKafkaProducer.cs",
+              "RelativeToolTip": "KafkaClient\\Json\\JsonKafkaProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T04:20:02.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AvroKafkaConsumer.cs",
+              "DocumentMoniker": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Avro\\AvroKafkaConsumer.cs",
+              "RelativeDocumentMoniker": "KafkaClient\\Avro\\AvroKafkaConsumer.cs",
+              "ToolTip": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Avro\\AvroKafkaConsumer.cs",
+              "RelativeToolTip": "KafkaClient\\Avro\\AvroKafkaConsumer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:50:42.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Factory.KafkaClientFactory.cs",
+              "DocumentMoniker": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Factory.KafkaClientFactory.cs",
+              "RelativeDocumentMoniker": "KafkaClient\\Factory.KafkaClientFactory.cs",
+              "ToolTip": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Factory.KafkaClientFactory.cs",
+              "RelativeToolTip": "KafkaClient\\Factory.KafkaClientFactory.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:47:21.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataTypes.cs",
+              "DocumentMoniker": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\DataTypes.cs",
+              "RelativeDocumentMoniker": "KafkaClient\\DataTypes.cs",
+              "ToolTip": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\DataTypes.cs",
+              "RelativeToolTip": "KafkaClient\\DataTypes.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wBIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:38:23.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IKafkaServices.cs",
+              "DocumentMoniker": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Interfaces\\IKafkaServices.cs",
+              "RelativeDocumentMoniker": "KafkaClient\\Interfaces\\IKafkaServices.cs",
+              "ToolTip": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Interfaces\\IKafkaServices.cs",
+              "RelativeToolTip": "KafkaClient\\Interfaces\\IKafkaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:26:27.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsonKafkaConsumer.cs",
+              "DocumentMoniker": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Json\\JsonKafkaConsumer.cs",
+              "RelativeDocumentMoniker": "KafkaClient\\Json\\JsonKafkaConsumer.cs",
+              "ToolTip": "D:\\Workspaces\\.respositories\\personal\\dev-verse\\Kafka\\KafkaClient\\KafkaClient\\Json\\JsonKafkaConsumer.cs",
+              "RelativeToolTip": "KafkaClient\\Json\\JsonKafkaConsumer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:01:18.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+D:\Workspaces\.respositories\personal\dev-verse\Kafka\KafkaClient\KafkaClient\obj\Debug\net8.0\KafkaClient.csproj.AssemblyReference.cache
+D:\Workspaces\.respositories\personal\dev-verse\Kafka\KafkaClient\KafkaClient\obj\Debug\net8.0\KafkaClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\.respositories\personal\dev-verse\Kafka\KafkaClient\KafkaClient\obj\Debug\net8.0\KafkaClient.AssemblyInfoInputs.cache
+D:\Workspaces\.respositories\personal\dev-verse\Kafka\KafkaClient\KafkaClient\obj\Debug\net8.0\KafkaClient.AssemblyInfo.cs
+D:\Workspaces\.respositories\personal\dev-verse\Kafka\KafkaClient\KafkaClient\obj\Debug\net8.0\KafkaClient.csproj.CoreCompileInputs.cache
+D:\Workspaces\.respositories\personal\dev-verse\Kafka\KafkaClient\KafkaClient\obj\Debug\net8.0\KafkaClient.sourcelink.json
+D:\Workspaces\.respositories\personal\dev-verse\Kafka\KafkaClient\KafkaClient\bin\Debug\net8.0\KafkaClient.deps.json
+D:\Workspaces\.respositories\personal\dev-verse\Kafka\KafkaClient\KafkaClient\bin\Debug\net8.0\KafkaClient.dll
+D:\Workspaces\.respositories\personal\dev-verse\Kafka\KafkaClient\KafkaClient\bin\Debug\net8.0\KafkaClient.pdb
+D:\Workspaces\.respositories\personal\dev-verse\Kafka\KafkaClient\KafkaClient\obj\Debug\net8.0\KafkaClient.dll
+D:\Workspaces\.respositories\personal\dev-verse\Kafka\KafkaClient\KafkaClient\obj\Debug\net8.0\refint\KafkaClient.dll
+D:\Workspaces\.respositories\personal\dev-verse\Kafka\KafkaClient\KafkaClient\obj\Debug\net8.0\KafkaClient.pdb
+D:\Workspaces\.respositories\personal\dev-verse\Kafka\KafkaClient\KafkaClient\obj\Debug\net8.0\ref\KafkaClient.dll
